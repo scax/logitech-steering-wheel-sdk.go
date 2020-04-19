@@ -1,8 +1,6 @@
-module github.com/scax/logitech-simple-airborne-toggle
+module github.com/Scax/logitech-steering-wheel-sdk.go
 
 go 1.14
-
-replace github.com/scax/logitech-simple-airborne-toggle => ./.
 
 require (
 	github.com/rs/zerolog v1.18.0

@@ -9,7 +9,7 @@ import (
 	"github.com/mattn/go-colorable"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
-	"github.com/scax/logitech-simple-airborne-toggle"
+	"github.com/scax/logitech-steering-wheel-sdk.go"
 )
 
 func init() {

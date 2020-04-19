@@ -1,5 +1,5 @@
 # Logitech Steering Wheel SDK Go bindings [WIP Paused]
-
+Made for LogitechSteeringWheelSDK_8.75.30
 ## [WIP] paused
 Started this to help a friend.
 But is no longer needed.
