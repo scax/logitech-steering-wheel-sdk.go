@@ -1,4 +1,4 @@
-module github.com/Scax/logitech-steering-wheel-sdk.go
+module github.com/scax/logitech-steering-wheel-sdk.go
 
 go 1.14
 
